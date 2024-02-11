@@ -1,2 +1,4 @@
 # Cricket_Game!
-https://github.com/parikajain09/Cricket_Game/assets/150047644/a227bd27-42bf-4c4c-8daa-d404e0afebdd
+
+
+![Screenshot (28)](https://github.com/parikajain09/Cricket_Game/assets/150047644/f60eae0f-654a-404e-b963-9ca38f06b6d1)
